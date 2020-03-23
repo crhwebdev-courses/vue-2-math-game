@@ -21,7 +21,7 @@ import Answer from "./components/Answer.vue";
 export default {
   data() {
     return {
-      mode: "Question"
+      mode: "app-question"
     };
   },
   components: {
